@@ -1,4 +1,5 @@
 # Class01
+
 ## Today I learn about Structure in HTML :
 1. HTML pages are text documents.
 2. HTML uses tags (characters that sit inside angled
@@ -14,6 +15,7 @@ about the content of that element.
 7. To learn HTML you need to know what tags are
 available for you to use, what they do, and where they
 can go.
+
 ## Today I learn about Extra Markup in HTML :
 1. DOCTYPES tell browsers which version of HTML you
 are using.
@@ -28,6 +30,7 @@ which other pages can be displayed.
 information about your web page.
 7. Escape characters are used to include special
 characters in your pages such as <, >, and ©.
+
 ## Today I learn about HTML5 Layout in HTML :
 1. The new HTML5 elements indicate the purpose of
 different parts of a web page and help to describe
@@ -40,6 +43,7 @@ block-level elements.
 4. To make HTML5 elements work in Internet Explorer 8
 (and older versions of IE), extra JavaScript is needed,
 which is available free from Google.
+
 ## Today I learn about Process & Design in HTML :
 1. It's important to understand who your target audience
 is, why they would come to your site, what information
@@ -53,13 +57,16 @@ visitors understand what you are trying to tell them.
 using size, color, and style.
 6. You can use grouping and similarity to help simplify
 the information you present.
+
 ## Today I learn about The ABC of Programming in JS :
-* A : What is a script and how do I create one  ?
+
+A : What is a script and how do I create one  ?
 1. A script is a series of instructions that the computer ca follow in order to achieve a goal.
 2. Each time the script runs, it might only use a subset of all the instructions
 3. Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task programmatically.
 4. To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
-* B : How do computers fit in with the world around them ?
+
+B : How do computers fit in with the world around them ?
 1. computers create models of the world using data.
 2. The models use objects to represent physical things. Objects can have: properties that tell us about the object; methods that perform tasks using th properties of thet object; events which are triggered when a user interacts with the computer.
 3. Programmers can write code th say "when this event occurs, run that code."
