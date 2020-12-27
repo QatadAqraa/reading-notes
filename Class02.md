@@ -1,4 +1,4 @@
-# Class01
+# Class02
 
 ## Today I learn about Text in HTML :
 1. HTML elements are used to describe the structure of
