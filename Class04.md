@@ -27,8 +27,14 @@ pixels (to demonstrate its relevance without scrolling).
 7. CSS Frameworks provide rules for common tasks.
 8. You can include multiple CSS files in one page.
 
+## Today I learn about Functions, Methods, and Objects in Js :
+1. Functions allow you to group a set of related
+statements together that represent a single task.
+2. Functions can take parameters (informatiorJ required
+to do their job) and may return a value.
+
 ## Today I learn about Pair Programing:
-# Why Pair program
+### Why Pair program
 1. Greater efficiency
 2. Engaged collaboration
 3. Learning from fellow students
