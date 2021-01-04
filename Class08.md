@@ -1,6 +1,6 @@
 # Class08
 
-## Today I learn about Layout in HTML :
+## Today I learn about Layout in HTML & CSS :
 1. div tag elements are often used as containing elements
 to group together sections of a page.
 2. Browsers display pages in normal flow unless you
